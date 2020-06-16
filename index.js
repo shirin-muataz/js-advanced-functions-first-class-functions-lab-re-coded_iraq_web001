@@ -24,3 +24,5 @@ function fareTripler(fare){
   
  return createFareMultiplier(3)(fare);
 }
+
+function 
